@@ -8,7 +8,7 @@
   module.exports = {
     data() {
       return {
-        message: 'hot reload hoge'
+        message: 'hot reload hoge  aa'
       }
     }
   }
